@@ -1,4 +1,8 @@
 # CalculatorWithCSharp
+
+![calculator](https://user-images.githubusercontent.com/28382771/35707004-e5060c1a-075c-11e8-936e-5cab828f869b.gif)
+
+
 Assignment
 
 Non-scientific calculator similar to windows calculator.
