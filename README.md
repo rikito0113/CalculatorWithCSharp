@@ -1,5 +1,5 @@
 # CalculatorWithCSharp
-Assignment0131
+Assignment
 
 Non-scientific calculator similar to windows calculator.
 This is able to cascade the operation, so you can do multiple operations before hitting the equal button.
